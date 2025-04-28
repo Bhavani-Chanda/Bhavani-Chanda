@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Bhavani Chanda.
 ## 💻 About Me
-- 🔥 Enthusiastic Backend Developer.
+- 🔥 Enthusiastic **Backend Developer**.
 - 🎓 Master's student in Computer Science at **Portland State University**.
 - 🛠️ Former **Junior Full Stack Developer** at **Tata Consultancy Services** with 2+ years of industry experience.
 
